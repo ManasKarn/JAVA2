@@ -1,4 +1,4 @@
-# JAVA2
+# JAVA
 practice
 <br>
 Author -(Manas Karn)
